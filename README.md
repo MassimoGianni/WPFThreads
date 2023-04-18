@@ -35,5 +35,6 @@ Poi si usa signal finché non arriva a 0, Wait invece è una procedura bloccante
 Devo fare un altro dispatcher per sistemare questo problema e Per far capire che tutto è finito mandiamo un messaggio di avviso.
 Se clicco una seconda volta il button il semaforo smette di funzionare perché vengono a meno i Reference del 1 semaforo, Per questo nominiamo il pulsante e lo disabilitiamo dopo averlo attivato per la prima volta.
 Infine mettiamo il bottone in modalità “true” cosi lo possiamo attivare quando lo vogliamo e se tutto andrà bene ci verrà fuori questa interfaccia. 
+![v](https://user-images.githubusercontent.com/116788368/232852070-90dff1d3-0504-4ffc-9d4e-c7500a6f7ce0.PNG)
 
 
