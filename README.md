@@ -13,6 +13,7 @@ Poi bisogna lanciare un Thread separato alla velocità che gli viene imposti ma 
 Però prima di tutto bisogna fare un metodo che non ti fa Tornare nulla così la GUI Puoi continuare a girare indipendentemente.
 
 Però tra i 2 thread non possono usare le risorse reciproche senza pagare spazio, perciò si usa un “lasciapassare” ovvero dispatcher anche detto zona critica, e all’interno di esso si fanno delle azioni che in norma non si potrebbero fare.
+![a](https://user-images.githubusercontent.com/116788368/232851639-ab0d5ac8-ca59-4f47-afeb-e1b50a7351ad.PNG)
 
 
 Dopo aver usato il dispatcher nella interfaccia grafica verrà visualizzato un conteggio in tempo che all’inizio da solo un risultato finale, però il conteggio si altera perché 2 
